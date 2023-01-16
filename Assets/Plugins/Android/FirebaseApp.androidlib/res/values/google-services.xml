@@ -1,0 +1,11 @@
+<?xml version='1.0' encoding='utf-8'?>
+<resources xmlns:tools="http://schemas.android.com/tools" tools:keep="@string/firebase_database_url,@string/gcm_defaultSenderId,@string/google_storage_bucket,@string/project_id,@string/google_api_key,@string/google_crash_reporting_api_key,@string/google_app_id,@string/default_web_client_id">
+  <string name="firebase_database_url" translatable="false">https://dinomaze-5831c-default-rtdb.firebaseio.com</string>
+  <string name="gcm_defaultSenderId" translatable="false">236264787611</string>
+  <string name="google_storage_bucket" translatable="false">dinomaze-5831c.appspot.com</string>
+  <string name="project_id" translatable="false">dinomaze-5831c</string>
+  <string name="google_api_key" translatable="false">AIzaSyAHtBQ2j2gnJKSAfwmjr_CBcLaMuWpRKdE</string>
+  <string name="google_crash_reporting_api_key" translatable="false">AIzaSyAHtBQ2j2gnJKSAfwmjr_CBcLaMuWpRKdE</string>
+  <string name="google_app_id" translatable="false">1:236264787611:android:8b88383856c2f2044b803e</string>
+  <string name="default_web_client_id" translatable="false">236264787611-hbu44aqic4dqun4e6hnoilb93u35jndc.apps.googleusercontent.com</string>
+</resources>
